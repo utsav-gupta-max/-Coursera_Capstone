@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is a repository for sharing data science capstone project.
+This repository is for sharing data science capstone project.
